@@ -1,5 +1,5 @@
 I created a database name 'blog', with tables posts and authors.
-
+Use 'npm start' to start the server
 URL to create Tables - localhost:3000/createtables 
 
 ADD AUTHORS INTO THE DATABASE

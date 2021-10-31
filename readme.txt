@@ -7,7 +7,7 @@ URL to create Tables - localhost:3000/createtables
 
 ADD AUTHORS INTO THE DATABASE
 *add your email and password on line 10,11 & line 84 in assignment.js*
-*Add real email ids for the email notification
+*Add real email ids for the email notification*
 URL - localhost:3000/author
     "name": "Michael Clark",
     "email": "mike95@yahoo.com"

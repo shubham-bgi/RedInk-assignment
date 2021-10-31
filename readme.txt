@@ -65,5 +65,5 @@ URL - localhost:3000/post/update?num=2 (to update second post)
     "authorName": "Michael Clark"
 }
 
-FETCH ALL POSTS BY A AUTHOR BY ITS AUTHORID
+FETCH ALL POSTS BY AN AUTHOR BY ITS AUTHORID
 URL - localhost:3000/posts/authorId?num=2 (to get all the posts from author id equals to 2)

@@ -1,7 +1,26 @@
 I created a database name 'blogposts', with tables posts and authors.
 
-URL to create db - localhost:3000/createdb
-URL to create Tables - localhost:3000/createtables
+(before running this comment the 20th code line in assignment.js)
+URL to create db - localhost:3000/createdb 
+(Un comment the 20th line and re-run the file)
+URL to create Tables - localhost:3000/createtables 
+
+ADD AUTHORS INTO THE DATABASE
+*add your email in postRequest.js and password on line 10,11 & line 84 in assignment.js*
+*Add real email ids for the email notification
+URL - localhost:3000/author
+    "name": "Michael Clark",
+    "email": "mike95@yahoo.com"
+}{
+
+{
+    "name": "Jaqulin Goodman",
+    "email": "jaqulin_goodman@gmail.com"
+}
+{
+    "name": "Shubhash Kumar Desai",
+    "email": "author_Kdesai@gmai.com"
+}
 
 ADD POSTS INTO THE DATABASE
 URL - localhost:3000/post
